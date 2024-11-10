@@ -18,10 +18,10 @@ $ docker-compose up
 ## Endpoints
 <b> Archive: </b> <br>
 
-![Image of design](https://res.cloudinary.com/dtwqtpteb/image/upload/v1731259134/w5ynoowa4f5ol2rybj40.png)
+![Image of design](https://res.cloudinary.com/dtwqtpteb/image/upload/v1731263548/im9vk5hmy0qemasf2jzh.png)
 
 
 <b> Robust: </b> <br>
 
-![Image of design](https://res.cloudinary.com/dtwqtpteb/image/upload/v1731259134/dxbutkvv3pepfnlotwvb.png)
+![Image of design](https://res.cloudinary.com/dtwqtpteb/image/upload/v1731263548/im9vk5hmy0qemasf2jzh.png)
 

@@ -7,8 +7,8 @@ const { PORT } = require('./config/config');
 
 startMoviePolling();
 
-app.get('/robust', getRobust);
-app.get('/archive', getArchive);
+app.get('/movies/robust', getRobust);
+app.get('/movies/archive', getArchive);
 
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);
