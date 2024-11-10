@@ -3,7 +3,7 @@ version: '3.8'
 services:
   my-server:
     build:
-      context: ./movies  
+      context: ./  
       dockerfile: Dockerfile
     ports:
       - "3000:3000"
