@@ -23,5 +23,5 @@ $ docker-compose up
 
 <b> Robust: </b> <br>
 
-![Image of design](https://res.cloudinary.com/dtwqtpteb/image/upload/v1731263548/im9vk5hmy0qemasf2jzh.png)
+![Image of design](https://res.cloudinary.com/dtwqtpteb/image/upload/v1731264164/ro397hzgms5h7wwnikab.png)
 
